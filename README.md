@@ -249,7 +249,6 @@ The airline industry relies heavily on maintaining operational efficiency and ma
 
 ## 📸 Dashboard Preview
 
-> Insert your Power BI dashboard screenshot below.
 
 ![Dashboard Preview](powerbi/dash.jpg)
 
